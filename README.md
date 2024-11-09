@@ -1,4 +1,12 @@
 # WDC-A2
+Project: Working with Data and Code: Code Prototype
+
+Software used: p5.js
+
+outline of project: create a 2-3 second looped animation for company "Fitness Co"
+
+Code:
+
 let textY, ballY;
 let textSpeed = 4; 
 let ballSpeed = 4; 
